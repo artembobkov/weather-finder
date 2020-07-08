@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weather-finder/static/css/main.f615728c.chunk.css",
+    "main.js": "/weather-finder/static/js/main.31fe862e.chunk.js",
+    "main.js.map": "/weather-finder/static/js/main.31fe862e.chunk.js.map",
+    "runtime-main.js": "/weather-finder/static/js/runtime-main.81a178c6.js",
+    "runtime-main.js.map": "/weather-finder/static/js/runtime-main.81a178c6.js.map",
+    "static/js/2.b66bd7d9.chunk.js": "/weather-finder/static/js/2.b66bd7d9.chunk.js",
+    "static/js/2.b66bd7d9.chunk.js.map": "/weather-finder/static/js/2.b66bd7d9.chunk.js.map",
+    "index.html": "/weather-finder/index.html",
+    "precache-manifest.52df98a8f3f2409c1508085cbfc28ca8.js": "/weather-finder/precache-manifest.52df98a8f3f2409c1508085cbfc28ca8.js",
+    "service-worker.js": "/weather-finder/service-worker.js",
+    "static/css/main.f615728c.chunk.css.map": "/weather-finder/static/css/main.f615728c.chunk.css.map",
+    "static/js/2.b66bd7d9.chunk.js.LICENSE.txt": "/weather-finder/static/js/2.b66bd7d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81a178c6.js",
+    "static/js/2.b66bd7d9.chunk.js",
+    "static/css/main.f615728c.chunk.css",
+    "static/js/main.31fe862e.chunk.js"
+  ]
+}
